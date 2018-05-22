@@ -1,0 +1,9 @@
+  .header__logo  {
+    height: 50px;
+    }
+  .header__title {
+    font-size: 2em;
+  }
+  .burger {
+    width: 45px;
+  }
